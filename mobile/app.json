@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Vi Ca Nhan",
+    "slug": "personal-wallet-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "personalwallet",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4f46e5"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
